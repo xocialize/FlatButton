@@ -1,0 +1,30 @@
+[
+  {
+    "file": "/Users/meru/Develop/meru/FlatButton/FlatButton/FlatButton.swift",
+    "offset": 621,
+    "remove": 2,
+    "text": " "
+  },
+  {
+    "file": "/Users/meru/Develop/meru/FlatButton/FlatButton/FlatButton.swift",
+    "offset": 625,
+    "text": "MediaTiming"
+  },
+  {
+    "file": "/Users/meru/Develop/meru/FlatButton/FlatButton/FlatButton.swift",
+    "offset": 633,
+    "remove": 1,
+    "text": ".f"
+  },
+  {
+    "file": "/Users/meru/Develop/meru/FlatButton/FlatButton/FlatButton.swift",
+    "offset": 5816,
+    "text": "."
+  },
+  {
+    "file": "/Users/meru/Develop/meru/FlatButton/FlatButton/FlatButton.swift",
+    "offset": 12985,
+    "remove": 10,
+    "text": " "
+  }
+]

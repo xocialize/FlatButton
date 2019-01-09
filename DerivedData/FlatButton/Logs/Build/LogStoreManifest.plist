@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>5EC96829-9699-4220-AEB7-155C4319F3E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EC96829-9699-4220-AEB7-155C4319F3E3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FlatButton project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FlatButton</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Convert FlatButton</string>
+			<key>timeStartedRecording</key>
+			<real>568749966.88013804</real>
+			<key>timeStoppedRecording</key>
+			<real>568749972.96836996</real>
+			<key>title</key>
+			<string>Convert FlatButton</string>
+			<key>uniqueIdentifier</key>
+			<string>5EC96829-9699-4220-AEB7-155C4319F3E3</string>
+		</dict>
+		<key>BEACC73E-3142-483A-BA4A-5A7DEC4FCAB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BEACC73E-3142-483A-BA4A-5A7DEC4FCAB6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FlatButton project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FlatButton</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FlatButton</string>
+			<key>timeStartedRecording</key>
+			<real>568749985.23848605</real>
+			<key>timeStoppedRecording</key>
+			<real>568749986.30018699</real>
+			<key>title</key>
+			<string>Build FlatButton</string>
+			<key>uniqueIdentifier</key>
+			<string>BEACC73E-3142-483A-BA4A-5A7DEC4FCAB6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/meru/Develop/meru/FlatButton/DerivedData/FlatButton/Build/Intermediates.noindex/SwiftMigration/FlatButton/Products/Debug/FlatButton.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FlatButton-Swift.h",
+          'external-contents': "/Users/meru/Develop/meru/FlatButton/DerivedData/FlatButton/Build/Intermediates.noindex/SwiftMigration/FlatButton/Products/Debug/FlatButton.framework/Versions/A/Headers/FlatButton-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FlatButton.h",
+          'external-contents': "/Users/meru/Develop/meru/FlatButton/FlatButton/FlatButton.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/meru/Develop/meru/FlatButton/DerivedData/FlatButton/Build/Intermediates.noindex/SwiftMigration/FlatButton/Products/Debug/FlatButton.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/meru/Develop/meru/FlatButton/DerivedData/FlatButton/Build/Intermediates.noindex/SwiftMigration/FlatButton/Intermediates.noindex/FlatButton.build/Debug/FlatButton.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

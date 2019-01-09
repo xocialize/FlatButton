@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ff0b6aa78def2729c3b45d0f4711ec62"
+build_time: [1547057107, 126847000]
+inputs:
+  "/Users/meru/Develop/meru/FlatButton/FlatButton/FlatButton.swift": [1547057064, 0]
